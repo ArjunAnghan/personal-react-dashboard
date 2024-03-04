@@ -22,8 +22,9 @@ To update the user profile information, modify the `Constant.jsx` file in the pr
 ## Usage
 
 1. Clone the repository to your local machine.
-2. Install dependencies using `npm install`.
-3. Run the application using `node run dev`.
+2. Change the directory Cd 'Folder_Name'
+3. Install dependencies using `npm install`.
+4. Run the application using `node run dev`.
 
 
 ## Author
